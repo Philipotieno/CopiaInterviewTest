@@ -7,7 +7,7 @@ To start and test on local environment,
 
 1. Clone this repo:
     ```
-    $ git clone https://github.com/Philipotieno/LeaveApp.git
+    $ git clone https://github.com/Philipotieno/CopiaInterviewTest.git
     ```
 
 2. Initialize and activate a virtualenv:
