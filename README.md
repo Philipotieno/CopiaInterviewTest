@@ -32,5 +32,5 @@ To start and test on local environment,
 
 4. To run third program, run
     ```
-    $ python weather.py
+    $ python queue.py
     ```
