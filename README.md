@@ -1,12 +1,7 @@
-Copia Interview
+### Copia Interview
 -----
-
-### Introduction
-
-Leave management app to create, list and update leave.
-
-
-### Getting Started
+## Getting Started
+## Python 3.8.9
 
 To start and test on local environment,
 
